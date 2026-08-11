@@ -1,0 +1,6 @@
+{
+  "name": "Auth Portal",
+  "description": "A simple user registration and login portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
